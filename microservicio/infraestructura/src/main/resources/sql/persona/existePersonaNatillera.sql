@@ -1,0 +1,1 @@
+Select * From natillera.PersonasNatilleras Where IdPersona = :idPersona And IdNatillera= :idNatillera;

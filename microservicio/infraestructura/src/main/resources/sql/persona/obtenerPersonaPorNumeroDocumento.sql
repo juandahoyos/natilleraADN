@@ -1,0 +1,1 @@
+Select * From natillera.Personas Where NumeroDocumento = :numeroDocumento;
